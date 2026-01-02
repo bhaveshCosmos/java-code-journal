@@ -26,4 +26,5 @@ replay_pid*
 # IntelliJ IDEA
 .idea/
 *.iml
+java-code-journal.iml
 out/
