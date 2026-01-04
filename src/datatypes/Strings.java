@@ -1,4 +1,4 @@
-package io.javajournal.datatypes;
+package datatypes;
 
 public class Strings {
     static void main(String[] args) {

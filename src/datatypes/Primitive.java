@@ -1,4 +1,4 @@
-package io.javajournal.datatypes;
+package datatypes;
 
 public class Primitive {
     public static void main(String[] args) {
