@@ -3,8 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
-java-code-journal.iml
-.idea
+*.iml
+.idea/
 
 ### Eclipse ###
 .apt_generated
