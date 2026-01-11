@@ -1,6 +1,4 @@
-package datatypes;
-
-public class Strings {
+public class StringBasic {
     static void main(String[] args) {
         // String Literals
         String firstName = "Bhavesh";
@@ -64,4 +62,5 @@ public class Strings {
         System.out.println(empty.isEmpty());      // true
 
     }
+
 }

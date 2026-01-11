@@ -1,4 +1,4 @@
-package Conditional;
+
 
 public class Loops {
     static void main(String[] args) {
@@ -20,6 +20,7 @@ public class Loops {
                     System.out.println("Do-While Loop: " + k);
                     k++;
                 } while (k <= 5);
+
         // The for-each Loop
         String[] colors = {"Red", "Green", "Blue"};
         for (String color : colors) {

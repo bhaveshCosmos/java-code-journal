@@ -10,7 +10,7 @@ Withdrawal should not exceed available balance
 Display appropriate messages for each operation
 Handle invalid choices
 */
-package Conditional;
+
 
 public class Switch {
     static void main(String[] args) {

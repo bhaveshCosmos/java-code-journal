@@ -1,18 +1,17 @@
-package datatypes;
-
-public class Primitive {
+public class PrimitiveDatatype {
     public static void main(String[] args) {
         // Integers
         byte byteNum = 127; // 1 Byte
         short shortNum = 32767;
         int intNum = 2147483647;
         long longNum = 9223372036854775807L;
-
+        System.out.printf("Integers: %d, %d, %d, %d\n", byteNum, shortNum, intNum, longNum);
         System.out.println((Long.BYTES));
 
         // Floating Point Numbers
         float floatNum = 3.4028235E38F;
         double doubleNum = 1.7976931348623157E308;
+        System.out.printf("Floating-Point: %f, %f\n",floatNum, doubleNum);
         // 1. Implicit Type Casting (Widening)
         int a;
         a = 10;

@@ -6,7 +6,7 @@ If salary ≥ 30,000 and creditScore ≥ 700 → Loan Approved
 Else → Loan Rejected
 Use only the ternary operator (no if–else)
 */
-package Conditional;
+
 
 public class TernaryOperator {
     static void main(String[] args) {

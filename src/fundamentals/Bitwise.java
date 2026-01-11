@@ -1,5 +1,3 @@
-package operators;
-
 public class Bitwise {
     public static void main(String[] args) {
 
@@ -26,6 +24,6 @@ public class Bitwise {
 
         // Unsigned Right Shift (>>>)
         int c = -8;
-        System.out.println(">>>: Binary: "+ Integer.toBinaryString(a >>> 2) + ", Decimal: "+(a >>> 2));   // 1  -> 0001
+        System.out.println(">>>: Binary: "+ Integer.toBinaryString(a >>> 2) + ", Decimal: "+(c >>> 2));   // 1  -> 0001
     }
 }
