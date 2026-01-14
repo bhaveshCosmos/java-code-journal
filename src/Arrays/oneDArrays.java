@@ -39,10 +39,6 @@ public class oneDArrays {
                 flag = toFindMaxArr[i];
             }
         }
-        System.out.println("Max: "+flag);
-
-
-    
-    
+        System.out.println("Max: "+flag); 
     }
 }
